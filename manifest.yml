@@ -7,10 +7,6 @@ default_versions:
   version: 9.x
 url_to_dependency_map: []
 dependency_deprecation_dates:
-- version_line: 9.x
-  name: node
-  date: 2018-06-30
-  link: https://github.com/nodejs/LTS
 dependencies:
 - name: dotnet-runtime
   version: 1.0.11
